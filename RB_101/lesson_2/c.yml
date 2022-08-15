@@ -1,0 +1,13 @@
+welcome: "Welcome to calculator. Please enter your name."
+valid_name: "Make sure to use a valid name."
+num1: "Please enter a number"
+num2: "Please enter a second number"
+invalid_number: "Hmm that doesn't look like a valid number"
+opt_prompt: <<-MSG
+    What operation would you like to perform?
+    1)add
+    2)substract
+    3)multiply
+    4)divide
+  MSG
+retry: "Must choose 1, 2, 3, 4"
